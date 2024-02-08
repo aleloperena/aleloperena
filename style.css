@@ -1,0 +1,65 @@
+p {}
+#CDMX {
+  	text-align: center;
+  	color: orange;
+    font-size: 20px
+}
+#Jalisco {
+  	text-align: center;
+    color: orangered;
+    font-size: 20px
+}
+#Nayarit {
+  	text-align: center;
+    color: orange;
+    font-size: 20px
+}
+#Tamaulipas {
+  	text-align: center;
+  	color: orangered;
+    font-size: 20px
+}
+#Sonora {
+  	text-align: center;
+  	color: orange;
+    font-size: 20px
+}
+#Tabasco {
+  	text-align: center;
+  	color: orangered;
+    text-decoration-line: underline;
+    font-size: 30px;
+}
+#title {
+  	text-align: center;
+  	color: teal;
+    font-size: 100px;
+}
+#Colima {
+    text-align: left;
+    color: teal;
+    font-size: 50px
+}
+#species {
+  font-family: "Times New Roman", Times, serif;
+  border-collapse: collapse;
+  width: 70%;
+}
+
+#species td, #species th {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+#species tr:nth-child(even){background-color: ivory;}
+
+#species tr:hover {background-color: seashell;}
+
+#species th {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  background-color: orange;
+  color: black;
+  font-size: 20px
+}
